@@ -1,14 +1,14 @@
 import React from "react"
+import './Employee.css'
 
-const EmployeeCard = () => {
+const EmployeeCard = (props) => {
     return (
-        <div>
-            <h1>Matthew Baker</h1>
-            <h3>Junior Web Developer</h3>
-            <hr></hr>
-            <h1>Matthew Kroeger</h1>
-            <h3>Stinky Junior Web Developer</h3>
-            <hr></hr>
+        <div className="card">
+            <div className="card-content">
+                <h3>Name: <span className="card-petname">{props.employee.name}</span></h3>
+                <p>Position: {props.employee.position}</p>
+                <button type="button" onClick={() => props.deleteEmployee(props.employee.id)}>Discharge</button>
+            </div>
         </div>
     )
 }
