@@ -12,8 +12,28 @@
     },
     {
       "id": 3,
-      "name": "Esme",
-      "breed": "Pitbull"
+      "name": "Doodles",
+      "breed": "Poodle"
+    },
+    {
+      "id": 4,
+      "name": "Decker",
+      "breed": "German Shepherd"
+    },
+    {
+      "id": 5,
+      "name": "Doodles",
+      "breed": "Poodle"
+    },
+    {
+      "id": 6,
+      "name": "Decker",
+      "breed": "German Shepherd"
+    },
+    {
+      "id": 7,
+      "name": "Decker",
+      "breed": "German Shepherd"
     }
   ],
   "employees": [
@@ -26,6 +46,11 @@
       "id": 2,
       "name": "Mike",
       "position": "Worker"
+    },
+    {
+      "name": "Matt",
+      "position": "Baker",
+      "id": 3
     }
   ],
   "locations": [
@@ -38,6 +63,21 @@
       "id": 2,
       "city": "Tallahassee",
       "state": "Florida"
+    },
+    {
+      "id": 3,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "city": "nash",
+      "state": "tn",
+      "id": 4
+    },
+    {
+      "city": "test",
+      "state": "test",
+      "id": 5
     }
   ],
   "owners": [
