@@ -1,0 +1,97 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle"
+    },
+    {
+      "id": 2,
+      "name": "Decker",
+      "breed": "German Shepherd"
+    },
+    {
+      "id": 3,
+      "name": "Doodles",
+      "breed": "Poodle"
+    },
+    {
+      "id": 4,
+      "name": "Decker",
+      "breed": "German Shepherd"
+    },
+    {
+      "id": 5,
+      "name": "Doodles",
+      "breed": "Poodle"
+    },
+    {
+      "id": 6,
+      "name": "Decker",
+      "breed": "German Shepherd"
+    },
+    {
+      "id": 7,
+      "name": "Decker",
+      "breed": "German Shepherd"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Matt",
+      "position": "HR"
+    },
+    {
+      "id": 2,
+      "name": "Mike",
+      "position": "Worker"
+    },
+    {
+      "name": "Matt",
+      "position": "Baker",
+      "id": 3
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "id": 2,
+      "city": "Tallahassee",
+      "state": "Florida"
+    },
+    {
+      "id": 3,
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    {
+      "city": "nash",
+      "state": "tn",
+      "id": 4
+    },
+    {
+      "city": "test",
+      "state": "test",
+      "id": 5
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Matthew Baker",
+      "position": "CEO",
+      "phone": "615-952-9701"
+    },
+    {
+      "id": 2,
+      "name": "Matthew K",
+      "position": "CFO",
+      "phone": "615-952-9701"
+    }
+  ]
+}
