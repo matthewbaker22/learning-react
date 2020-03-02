@@ -1,56 +1,39 @@
 {
   "animals": [
     {
-      "id": 1,
-      "name": "Doodles",
-      "breed": "Poodle"
-    },
-    {
       "id": 2,
-      "name": "Decker",
-      "breed": "German Shepherd"
+      "name": "Doo",
+      "breed": "German Sheperd"
     },
     {
       "id": 3,
-      "name": "Doodles",
-      "breed": "Poodle"
+      "name": "Esm",
+      "breed": "Pitbul"
     },
     {
+      "name": "Jack",
+      "breed": "Big cat",
       "id": 4,
-      "name": "Decker",
-      "breed": "German Shepherd"
+      "employeeId": 1
     },
     {
       "id": 5,
-      "name": "Doodles",
-      "breed": "Poodle"
-    },
-    {
-      "id": 6,
-      "name": "Decker",
-      "breed": "German Shepherd"
-    },
-    {
-      "id": 7,
-      "name": "Decker",
-      "breed": "German Shepherd"
+      "name": "Angu",
+      "breed": "Gerbi"
     }
   ],
   "employees": [
     {
       "id": 1,
-      "name": "Matt",
-      "position": "HR"
+      "name": "Jessica Younker"
     },
     {
       "id": 2,
-      "name": "Mike",
-      "position": "Worker"
+      "name": "Jordan Nel"
     },
     {
-      "name": "Matt",
-      "position": "Baker",
-      "id": 3
+      "id": 3,
+      "name": "Zoe LeBlanc"
     }
   ],
   "locations": [

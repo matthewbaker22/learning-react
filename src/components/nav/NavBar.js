@@ -33,7 +33,7 @@ const NavBar = () => {
               </Link>
           </li>
           <li>
-              <Link className="nav-link" to="/owner">
+              <Link className="nav-link" to="/owners">
                 Owners
               </Link>
           </li>
